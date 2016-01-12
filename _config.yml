@@ -1,5 +1,8 @@
+name: Photographer
+favicon: null
+layout_spectrum: 0.80622
+typography_spectrum: 1
 title: Occasional places
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.5680851
-  brandStrength: 0.0625
-  lightness: 0.375
-  brandColors:
-    - '#fbfbfb'
-    - '#191919'
-    - '#c1c1c1'
-    - '#727272'
-    - '#9e9e9e'
-  rhythmicContrast: 0.5
 cta:
+  domain: null
   bucket: null
   version: null
-  domain: null
 analytics:
-  twitter: null
   google: null
   facebook: null
-name: Photographer
-favicon: null
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 1
-layout_spectrum: 0.80622
+color:
+  brandColors:
+    - '#1a9eef'
+    - '#000000'
+    - '#0080ff'
+    - '#00aaff'
+    - '#0000ff'
+  brandStrength: 0.0625
+  lightness: 0.375
+  saturation: 0.5680851
+  rhythmicContrast: 0.5
+purpose: []
